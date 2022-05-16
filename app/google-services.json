@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "707700270520",
+    "firebase_url": "https://donorfinder-44725-default-rtdb.firebaseio.com",
+    "project_id": "donorfinder-44725",
+    "storage_bucket": "donorfinder-44725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707700270520:android:bf551fa1822aa04c655b4d",
+        "android_client_info": {
+          "package_name": "com.example.donorfinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "707700270520-mdu84h5vhpuigkmkd36inhe9edd1mlq0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-XqchwD5dDsO6mIeD7W8KHEqm-BFhXTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "707700270520-mdu84h5vhpuigkmkd36inhe9edd1mlq0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
